@@ -1,0 +1,20 @@
+Document Object
+---------------
+1. Represents the Document Object Model (DOM) of the current web page.
+2. Provides access to the structure and content of the web page, allowing manipulation of HTML elements.
+3. Mainly used for reading and modifying the content and structure of the web page, such as changing text, attributes, or adding/removing elements.
+4. Contains methods and properties for selecting and interacting with elements, such as getElementById, innerHTML, createElement and more.
+5. Primarily deals with the content within the browser window, not the browser itself.
+6. Typically used for tasks like form validation, element manipulation, and handling events specific to the web page.
+
+window Object
+-------------
+1. Represents the browser window or global in which JavaScript code runs.
+2. Provides access to various properties and methods that control the browser and its behavior.
+3. Used for tasks like opening and managing new browser windows or tabs, resizing and repositioning the browser window, setting timeouts and intervals and more.
+4. Contains global variables and functions and serves as the highest-level object in the browser's JavaScript object hierarchy.
+5. It encompasses the "document" object as a property, making it possible to access the DOM of the current web page via "window.document".
+6. Primarily focused on controlling the browser itself and managing the environment in which web pages are displayed.
+
+
+https://i.pinimg.com/originals/0b/ae/6f/0bae6f7409ba5b0487071cac6ce6b833.png
